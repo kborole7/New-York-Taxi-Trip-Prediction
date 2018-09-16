@@ -22,3 +22,5 @@ trip trip_duration - duration of the trip in seconds
 
 
 Plot of pickup lattitudes and longitudes of taxis in New York.
+
+![nymap](https://user-images.githubusercontent.com/35272993/45602118-01455780-b9de-11e8-98dc-61a739597cd9.PNG)
